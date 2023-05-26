@@ -15,6 +15,13 @@ There are several normal ways but here we are only going to do the first 3 which
 - Second Normal Form(2FN).  
 - Third Normal Form(3FN).  
 
+We will take as reference the Team table created in the previous work with following extra attributes:  
+- **id**
+- name_team
+- name_player  
+- ciudadFundada
+- phone_number
+- posicion_que_juega
 
 
 ![1F-1](https://github.com/sami24120/11_05_ASSI_Propose_a_normalization_problem/assets/116269453/5928d1ff-f19b-44ad-b74c-081a61e1a292)
